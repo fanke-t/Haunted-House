@@ -53,6 +53,7 @@
     {"id":{"name":"s_main_front","path":"sprites/s_main_front/s_main_front.yy",},},
     {"id":{"name":"s_main_left","path":"sprites/s_main_left/s_main_left.yy",},},
     {"id":{"name":"s_main_right","path":"sprites/s_main_right/s_main_right.yy",},},
+    {"id":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
