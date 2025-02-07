@@ -1,3 +1,3 @@
-if room == "Room 1" {
+if room == "r_kitchen" {
 	following = false;
 }
