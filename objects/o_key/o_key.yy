@@ -8,8 +8,8 @@
   "name":"o_key",
   "overriddenProperties":[],
   "parent":{
-    "name":"transition",
-    "path":"folders/Objects/transition.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

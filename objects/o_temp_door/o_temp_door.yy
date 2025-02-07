@@ -6,8 +6,8 @@
   "name":"o_temp_door",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"transition",
+    "path":"folders/Objects/transition.yy",
   },
   "parentObjectId":null,
   "persistent":false,
