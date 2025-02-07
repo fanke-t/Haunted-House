@@ -41,7 +41,7 @@
     {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},},
     {"id":{"name":"o_main","path":"objects/o_main/o_main.yy",},},
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"r_kitchen","path":"rooms/r_kitchen/r_kitchen.yy",},},
     {"id":{"name":"s_friend_back","path":"sprites/s_friend_back/s_friend_back.yy",},},
     {"id":{"name":"s_friend_front","path":"sprites/s_friend_front/s_friend_front.yy",},},
     {"id":{"name":"s_friend_left","path":"sprites/s_friend_left/s_friend_left.yy",},},
@@ -58,7 +58,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"r_kitchen","path":"rooms/r_kitchen/r_kitchen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

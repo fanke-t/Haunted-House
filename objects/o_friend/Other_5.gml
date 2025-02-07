@@ -1,3 +1,3 @@
-if room == "" { //naam van lvl1 
+if room == "Room 1" {
 	following = false;
 }
