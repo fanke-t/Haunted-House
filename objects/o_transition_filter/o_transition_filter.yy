@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_transition_pixelate",
+  "%Name":"o_transition_filter",
   "eventList":[],
   "managed":true,
-  "name":"o_transition_pixelate",
+  "name":"o_transition_filter",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_transition_parent","path":"objects/o_transition_parent/o_transition_parent.yy",},"propertyId":{"name":"filter_name","path":"objects/o_transition_parent/o_transition_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"_filter_ripples\"",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_transition_parent","path":"objects/o_transition_parent/o_transition_parent.yy",},"propertyId":{"name":"filter_name","path":"objects/o_transition_parent/o_transition_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"_filter_zoom_blur\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_transition_parent","path":"objects/o_transition_parent/o_transition_parent.yy",},"propertyId":{"name":"param_name","path":"objects/o_transition_parent/o_transition_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"g_CellSize\"",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_transition_parent","path":"objects/o_transition_parent/o_transition_parent.yy",},"propertyId":{"name":"param_min_value","path":"objects/o_transition_parent/o_transition_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_transition_parent","path":"objects/o_transition_parent/o_transition_parent.yy",},"propertyId":{"name":"param_max_value","path":"objects/o_transition_parent/o_transition_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"128",},

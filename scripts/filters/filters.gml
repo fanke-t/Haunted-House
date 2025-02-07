@@ -1,1 +1,1 @@
-fx_create("_filter_ripples");
+fx_create("_filter_zoom_blur");
