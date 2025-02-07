@@ -1,1 +1,1 @@
-fx_create("_filter_twist_blur");
+fx_create("_filter_ripples");
