@@ -11,8 +11,8 @@
   "name":"o_transition_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"transitions",
+    "path":"folders/Objects/transitions.yy",
   },
   "parentObjectId":null,
   "persistent":true,
