@@ -12,8 +12,8 @@
   "name":"o_play",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"transitions",
+    "path":"folders/Objects/transitions.yy",
   },
   "parentObjectId":null,
   "persistent":false,
