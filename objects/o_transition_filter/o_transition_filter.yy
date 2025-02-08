@@ -12,8 +12,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_transition_parent","path":"objects/o_transition_parent/o_transition_parent.yy",},"propertyId":{"name":"param_speed","path":"objects/o_transition_parent/o_transition_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"4",},
   ],
   "parent":{
-    "name":"transition",
-    "path":"folders/Objects/transition.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"o_transition_parent",
