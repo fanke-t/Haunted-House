@@ -27,6 +27,10 @@
     {"name":"o_key1","order":7,"path":"objects/o_key1/o_key1.yy",},
     {"name":"o_keyboard","order":9,"path":"objects/o_keyboard/o_keyboard.yy",},
     {"name":"o_main","order":1,"path":"objects/o_main/o_main.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"o_makers","order":14,"path":"objects/o_makers/o_makers.yy",},
+>>>>>>> Stashed changes
     {"name":"o_mjilk","order":10,"path":"objects/o_mjilk/o_mjilk.yy",},
     {"name":"o_play","order":2,"path":"objects/o_play/o_play.yy",},
     {"name":"o_solid","order":2,"path":"objects/o_solid/o_solid.yy",},
