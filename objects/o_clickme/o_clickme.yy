@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_makers",
+  "%Name":"o_clickme",
   "eventList":[],
   "managed":true,
-  "name":"o_makers",
+  "name":"o_clickme",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game_Haunted_House",
-    "path":"Game_Haunted_House.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_makers",
-    "path":"sprites/s_makers/s_makers.yy",
+    "name":"s_clickme",
+    "path":"sprites/s_clickme/s_clickme.yy",
   },
   "spriteMaskId":null,
   "visible":true,
