@@ -1,9 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"o_makers",
-  "eventList":[],
+  "%Name":"o_instructions",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":60,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":61,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"o_makers",
+  "name":"o_instructions",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_makers",
-    "path":"sprites/s_makers/s_makers.yy",
+    "name":"s_instructions",
+    "path":"sprites/s_instructions/s_instructions.yy",
   },
   "spriteMaskId":null,
   "visible":true,

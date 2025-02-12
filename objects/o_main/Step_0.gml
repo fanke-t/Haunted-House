@@ -24,3 +24,11 @@ or keyboard_check(ord("S")) or keyboard_check(vk_up) or keyboard_check(ord("W"))
 or keyboard_check_released(vk_up) or keyboard_check_released(vk_down)) {
   image_speed = 0;
 }
+
+draw_text(x, y - 20, string(alarm[0]));
+
+if (keyboard_check(vk_space) and can_shoot) {
+    can_shoot = false; // Voorkomt direct opnieuw schieten
+    alarm[0] = bullet_cooldown; // Start cooldown
+    shoot_bullet(); // Schiet een kogel
+}
